@@ -9,6 +9,8 @@ const Home: NextPage = () => {
     console.log("click");
   };
 
+  console.log("stage");
+
   return (
     <div className={styles.container}>
       <Head>
