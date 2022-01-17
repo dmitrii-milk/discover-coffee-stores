@@ -8,6 +8,7 @@ const Home: NextPage = () => {
   const handleOnBannerBtnClick = () => {
     console.log("click");
   };
+  console.log("xxxxxxx");
 
   return (
     <div className={styles.container}>
